@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-29T16:57:27.655Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" etag="F0Tm5V-_eg1MknzF4wF-" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-29T17:10:55.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" etag="w_oA95ZQyy_zw1gHsI5b" version="20.3.7" type="github">
   <diagram id="KJke0EbLDaBiQkrBzsRG" name="Page-1">
     <mxGraphModel dx="2471" dy="1458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
         <mxCell id="YnCvbigZYWwihMvjkjqG-2" value="&lt;font style=&quot;font-size: 55px;&quot;&gt;Accurate Gait Recognition with Inertial Sensors using a New FCN-BiLSTM architecture&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=#CC6600;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=Times New Roman;fontSize=55;" vertex="1" parent="1">
           <mxGeometry x="190" y="180" width="2000" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="YnCvbigZYWwihMvjkjqG-247" value="" style="group;strokeColor=none;strokeWidth=3;verticalAlign=top;fillColor=#cdeb8b;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="562" y="313" width="916.75" height="469.74" as="geometry" />
+        <mxCell id="YnCvbigZYWwihMvjkjqG-247" value="" style="group;strokeColor=#CDEB8B;strokeWidth=16;verticalAlign=top;fillColor=#CDEB8B;labelBorderColor=#CCFF99;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="562" y="321" width="916.75" height="469.74" as="geometry" />
         </mxCell>
         <mxCell id="YnCvbigZYWwihMvjkjqG-167" value="&lt;b&gt;Inputs&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="YnCvbigZYWwihMvjkjqG-247">
           <mxGeometry x="31.571371097521727" y="328.10984924623114" width="47.20952687479884" height="23.60502512562814" as="geometry" />
@@ -109,7 +109,7 @@
         <mxCell id="YnCvbigZYWwihMvjkjqG-192" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Softmax&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="YnCvbigZYWwihMvjkjqG-247">
           <mxGeometry x="845.9357096878017" y="336.371608040201" width="118.0238171869971" height="23.60502512562814" as="geometry" />
         </mxCell>
-        <mxCell id="YnCvbigZYWwihMvjkjqG-193" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Concatanate&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="YnCvbigZYWwihMvjkjqG-247">
+        <mxCell id="YnCvbigZYWwihMvjkjqG-193" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Concatanate&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;labelBorderColor=none;" vertex="1" parent="YnCvbigZYWwihMvjkjqG-247">
           <mxGeometry x="716.1095107821048" y="342.272864321608" width="172.31477309301576" height="23.60502512562814" as="geometry" />
         </mxCell>
         <mxCell id="YnCvbigZYWwihMvjkjqG-194" value="" style="endArrow=classic;html=1;" edge="1" parent="YnCvbigZYWwihMvjkjqG-247">
@@ -339,7 +339,7 @@
           <mxGeometry x="1111" y="296" width="350" height="130" as="geometry" />
         </mxCell>
         <mxCell id="YnCvbigZYWwihMvjkjqG-254" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=50;fontColor=#FFFFFF;fillColor=#009900;gradientColor=none;fontStyle=1;strokeColor=none;" vertex="1" parent="YnCvbigZYWwihMvjkjqG-265">
-          <mxGeometry x="60" y="22.29" width="290" height="107.71" as="geometry" />
+          <mxGeometry x="70" y="22.29" width="290" height="107.71" as="geometry" />
         </mxCell>
         <mxCell id="YnCvbigZYWwihMvjkjqG-262" value="New Architecture&lt;br style=&quot;font-size: 40px;&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=40;fontColor=#FFFFFF;" vertex="1" parent="YnCvbigZYWwihMvjkjqG-265">
           <mxGeometry x="170" y="61.14" width="60" height="30" as="geometry" />
@@ -352,28 +352,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YnCvbigZYWwihMvjkjqG-276" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="200" y="311" width="350" height="470.0000000000001" as="geometry" />
+          <mxGeometry x="200" y="311" width="350" height="489" as="geometry" />
         </mxCell>
         <mxCell id="YnCvbigZYWwihMvjkjqG-274" value="" style="group;fillColor=#CCFF99;container=0;" vertex="1" connectable="0" parent="YnCvbigZYWwihMvjkjqG-276">
-          <mxGeometry width="342.70833333333326" height="470" as="geometry" />
+          <mxGeometry width="342.70833333333326" height="488.99999999999994" as="geometry" />
         </mxCell>
         <mxCell id="YnCvbigZYWwihMvjkjqG-249" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=50;fontColor=#FFFFFF;fillColor=#FF9999;gradientColor=none;fontStyle=1;strokeColor=none;" vertex="1" parent="YnCvbigZYWwihMvjkjqG-276">
-          <mxGeometry width="342.70833333333326" height="470.0000000000001" as="geometry" />
+          <mxGeometry width="342.70833333333326" height="489.00000000000006" as="geometry" />
         </mxCell>
         <mxCell id="YnCvbigZYWwihMvjkjqG-256" value="OU-ISIR Dataset&lt;br&gt;&lt;br&gt;Dataset #1&lt;br&gt;Dataset #2&lt;br&gt;Dataset #3&lt;br&gt;Dataset #4" style="text;whiteSpace=wrap;html=1;fontSize=46;fontFamily=Times New Roman;fontColor=#FFFFFF;" vertex="1" parent="YnCvbigZYWwihMvjkjqG-276">
-          <mxGeometry x="10" y="30" width="340" height="70" as="geometry" />
+          <mxGeometry x="10" y="31.212765957446805" width="340" height="72.82978723404256" as="geometry" />
         </mxCell>
         <mxCell id="YnCvbigZYWwihMvjkjqG-258" value="" style="endArrow=none;html=1;fontFamily=Times New Roman;fontSize=46;fontColor=#FFFFFF;rounded=1;strokeColor=#FFFFFF;strokeWidth=6;" edge="1" parent="YnCvbigZYWwihMvjkjqG-276">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="225.20833333333331" y="157.07894736842104" as="sourcePoint" />
-            <mxPoint x="225" y="360" as="targetPoint" />
+            <mxPoint x="225.20833333333331" y="163.428947368421" as="sourcePoint" />
+            <mxPoint x="225" y="374.55319148936167" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YnCvbigZYWwihMvjkjqG-259" value="whuGAIT Datsets" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=46;fontColor=#FFFFFF;rotation=90;" vertex="1" parent="YnCvbigZYWwihMvjkjqG-276">
-          <mxGeometry x="180" y="195.06999999999994" width="197.93" height="131.86" as="geometry" />
+          <mxGeometry x="180" y="202.9558085106382" width="197.93" height="137.1905106382979" as="geometry" />
         </mxCell>
-        <mxCell id="YnCvbigZYWwihMvjkjqG-278" value="&lt;div style=&quot;text-align: justify; font-size: 30px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 30px;&quot;&gt;A new deep neural network architecture named FCN-BiLSTM is proposed. The architecture concatenates the extracted features of a Bidirectional LSTM Network with the extracted features produced by a Fully Convolutional Network that uses Squeeze-and-Excitation blocks to provide a better feature map. That map is then fed to a softmax classifier. The proposed model is evaluated on multiple benchmark datasets, namely the OU-ISIR and whuGAIT datasets. This architecture surpassed the existing state-of-the-art methods on the OU-ISIR dataset, Dataset 1, and 3 of the whuGAIT datasets. The performance was comparable on Dataset 2 and Dataset 4 of the whuGAIT Datasets. Therefore, we believe the proposed architecture can be used for biometric systems benefitting humankind.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#CC99FF;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;strokeWidth=3;fontFamily=Times New Roman;fontSize=30;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="190" y="790" width="2000" height="190" as="geometry" />
+        <mxCell id="YnCvbigZYWwihMvjkjqG-278" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 29px;&quot;&gt;A new deep neural network architecture named FCN-BiLSTM is proposed. The architecture concatenates the extracted features of a Bidirectional LSTM Network with the extracted features produced by a Fully Convolutional Network that uses Squeeze-and-Excitation blocks to provide a better feature map. That map is then fed to a softmax classifier. The proposed model is evaluated on multiple benchmark datasets, namely the OU-ISIR and whuGAIT datasets. This architecture surpassed the existing state-of-the-art methods on the OU-ISIR dataset, Dataset 1, and 3 of the whuGAIT datasets. The performance was comparable on Dataset 2 and Dataset 4 of the whuGAIT Datasets. Therefore, we believe the proposed architecture can be used for biometric systems benefitting humankind.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#CC99FF;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;strokeWidth=3;fontFamily=Times New Roman;fontSize=30;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="190" y="810" width="2000" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
